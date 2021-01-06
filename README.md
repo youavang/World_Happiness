@@ -1,31 +1,24 @@
 # World Happiness
-<html>
-    <head>
-    </head>
-    <body>
-        <div class='tableauPlaceholder' id='viz1609812720331' style='position: relative'>
-            <noscript>
-                <a href='#'>
-                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappiness_16098070994300&#47;WorldHappinessReportStory&#47;1_rss.png' style='border: none' />
-                </a>
-            </noscript>
-            <object class='tableauViz'  style='display:none;'>
-                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-                <param name='embed_code_version' value='3' /> 
-                <param name='site_root' value='' />
-                <param name='name' value='WorldHappiness_16098070994300&#47;WorldHappinessReportStory' />
-                <param name='tabs' value='no' />
-                <param name='toolbar' value='yes' />
-                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappiness_16098070994300&#47;WorldHappinessReportStory&#47;1.png' /> 
-                <param name='animate_transition' value='yes' />
-                <param name='display_static_image' value='yes' />
-                <param name='display_spinner' value='yes' />
-                <param name='display_overlay' value='yes' />
-                <param name='display_count' value='yes' />
-                <param name='language' value='en' />
-                <param name='filter' value='publish=yes' />
-            </object></div>                
-    </body>
-</html>
+This visualization is an interactive Tableau story in which the audience can explore the data. For the best experience you can view this Tableau story here: [World Happiness](https://public.tableau.com/views/WorldHappiness_16098070994300/WorldHappinessReportStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
-You can view this Tableau story here: [World Happiness](https://public.tableau.com/views/WorldHappiness_16098070994300/WorldHappinessReportStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+![slide1](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness1.png)
+
+![slide2](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness2.png)
+
+![slide3](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness3.png)
+
+![slide4](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness4.png)
+
+![slide5](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness5.png)
+
+![slide6](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness6.png)
+
+![slide7](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness7.png)
+
+![slide8](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness8.png)
+
+![slide9](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness9.png)
+
+![slide10](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness10.png)
+
+![slide11](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness11.png)
