@@ -1,5 +1,5 @@
 # World Happiness
-This visualization is an interactive Tableau story in which the audience can explore the data. For the best experience you can view this Tableau story here: [World Happiness](https://public.tableau.com/views/WorldHappiness_16098070994300/WorldHappinessReportStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+This visualization is an interactive Tableau story in which the audience can explore the data. For the best experience you can view this Tableau story here: [World Happiness](https://public.tableau.com/views/WorldHappinessReport_16098986485200/WorldHappinessReportStory?:language=en&:display_count=y&:origin=viz_share_link)
 
 ![slide1](https://github.com/youavang/World_Happiness/blob/main/images/WorldHappiness1.png)
 
